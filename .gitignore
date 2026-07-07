@@ -1,0 +1,5 @@
+target/
+logs/
+.venv/
+.DS_Store
+profiles.yml
